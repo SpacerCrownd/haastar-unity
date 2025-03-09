@@ -26,6 +26,10 @@
 # Visual Studio cache directory
 .vs/
 
+.plastic/
+
+TextMesh Pro/
+
 # Gradle cache directory
 .gradle/
 
